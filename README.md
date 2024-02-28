@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balaji Chidambaram</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=balachidam21&label=Profile%20views&color=0e75b6&style=flat" alt="sudeshkumarsk" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=balachidam21&label=Profile%20views&color=0e75b6&style=flat" alt="balachidam21" /> </p>
 
 - 🌱 I have graduated with **MS in Computer Science at University of Southern California (USC)** and currently seeking full-time opportunities.
 
