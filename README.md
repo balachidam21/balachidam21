@@ -5,7 +5,7 @@
 
 - 🔭 Reach Me at [LinkedIn](https://www.linkedin.com/in/balaji-chidam/)
 
-- 📄 Know about my experiences at [Resume](https://drive.google.com/file/d/1SPgwksmhhT-NQiFSJxxFEamF_RgU4a8g/view?usp=sharing)
+- 📄 Know about my experiences at [Resume](https://drive.google.com/file/d/1eORCY6uJHBsFjeZ8Xu2PXuI72uAExQZt/view?usp=drive_link)
 
 - 💬 Ask me about **Machine Learning, Software Engineering, Data Engineering, Deep Learning and Data Science**
 
